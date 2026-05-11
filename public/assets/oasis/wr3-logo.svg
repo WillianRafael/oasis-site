@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 558 368" role="img" aria-labelledby="title desc">
+  <title id="title">WR3</title>
+  <desc id="desc">Logo branca WR3 sobre fundo preto.</desc>
+  <rect width="558" height="368" fill="#050506"/>
+  <g fill="#fff" transform="translate(139 96)">
+    <path d="M0 0h44.5l56.8 102.2L144.8 0h44.1l-79.6 144.5L0 0Z"/>
+    <path d="M76.5 0h203.7l-23.5 42H112.8l-18.9 35h124.3l-22.4 39.2h-79.4l20.7 36.7h45.2l-23.4 41.1h-70L31.4 91.7 76.5 0Z"/>
+    <path d="M176.2 75.9h82.2l-19.7 34.8h-42.9l11.4 20.6h43.7L216.3 194h-44.5l16.8-29.7h-26.5l-22.7-40.1h74.4l8.4-15.2h-57.1l11.1-33.1Z"/>
+  </g>
+</svg>
